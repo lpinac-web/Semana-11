@@ -1,0 +1,6 @@
+ Una plataforma tecnologica debe contar con una base de datos para orgnizar la informacion segura.
+ La autentificacion ayuda a controlar quien puede acceder a cierts funcionlidades y protege los datos de los usarios.
+ Ademas, la proteccion de la informacion evita riesgos y genera confianza. 
+ En esta actividad comprendi que la seguridad y la organizacion son fundamentales para una plataforma de participacion ciudadana. 
+ 
+ 

@@ -1,0 +1,4 @@
+pregunta 1: un sistema que permite almacenar y consultar informacion estructurada.
+pregunta 2: crear, leer, actualizar y eliminar datos
+pregunta 3: Identificar usarios y  controlar uien puede acceder a ciertas funciones
+pregunta 4: para eitar riesgos de privacidad o uso indebido de la informacion.

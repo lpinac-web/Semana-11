@@ -1,0 +1,3 @@
+El login permite identificar a un usario antes de darle acceso a una aplicacion. Algunas rutas deben estar protegidas porque contienen informacion privada o funciones importantes del sistema
+De esta manera, solo los usuarios autorizados pueden acceder a ellas. Tambien ayuda a mantener la seguridad y el control de la plataforma.
+No se deben exponer publicamente contraseñas, documentos de identidad, telefonos, direcciones, tokens, claves de API ni otroa datos sensibles de los usarios.
